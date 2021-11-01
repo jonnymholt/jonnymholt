@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonnymholt
-- 💻 I code primarily in C# (dotnet core), JS (nodejs,vuejs), SQL, dart (flutter)
-- 🌱 I'm currently learning C/C++, swift, kotlin
+- 💻 I code primarily in JS (nodejs,vuejs), C# (dotnet core), SQL, dart (flutter)
+- 🌱 Interests in C/C++, swift, kotlin, unity, ue4
 - 💞 I’m looking to collaborate on creating immersive experiences and digital discipleship platforms
 - 📱 Contact me via DM https://twitter.com/jonnymholt
 
